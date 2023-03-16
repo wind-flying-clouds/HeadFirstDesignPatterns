@@ -1,4 +1,4 @@
-package com.shoe.code.duck.quack;
+package com.show.code.duck.quack;
 
 /**
  * created by: Omar

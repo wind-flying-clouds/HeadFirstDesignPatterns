@@ -1,8 +1,8 @@
-package com.shoe.code.duck;
+package com.show.code.duck;
 
 
-import com.shoe.code.duck.fly.FlyWithWings;
-import com.shoe.code.duck.quack.Quack;
+import com.show.code.duck.fly.FlyWithWings;
+import com.show.code.duck.quack.Quack;
 
 /**
  * created by: Omar

@@ -1,9 +1,9 @@
-package com.shoe.code.game.test;
+package com.show.code.game.test;
 
 
-import com.shoe.code.game.Farmer;
-import com.shoe.code.game.weapon.CannonWeaponImpl;
-import com.shoe.code.game.weapon.KnifeWeaponImpl;
+import com.show.code.game.Farmer;
+import com.show.code.game.weapon.CannonWeaponImpl;
+import com.show.code.game.weapon.KnifeWeaponImpl;
 
 /**
  * created by: Omar

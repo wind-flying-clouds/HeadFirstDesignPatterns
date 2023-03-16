@@ -1,8 +1,8 @@
-package com.shoe.code.duck;
+package com.show.code.duck;
 
 
-import com.shoe.code.duck.fly.FlyBehavior;
-import com.shoe.code.duck.quack.QuackBehavior;
+import com.show.code.duck.fly.FlyBehavior;
+import com.show.code.duck.quack.QuackBehavior;
 
 /**
  * created by: Omar

@@ -1,4 +1,4 @@
-package com.shoe.code.game.weapon;
+package com.show.code.game.weapon;
 
 /**
  * created by: Omar

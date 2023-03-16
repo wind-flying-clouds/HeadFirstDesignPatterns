@@ -1,9 +1,9 @@
-package com.shoe.code.game.test;
+package com.show.code.game.test;
 
 
-import com.shoe.code.game.King;
-import com.shoe.code.game.weapon.CannonWeaponImpl;
-import com.shoe.code.game.weapon.GunWeaponImpl;
+import com.show.code.game.King;
+import com.show.code.game.weapon.CannonWeaponImpl;
+import com.show.code.game.weapon.GunWeaponImpl;
 
 /**
  * created by: Omar

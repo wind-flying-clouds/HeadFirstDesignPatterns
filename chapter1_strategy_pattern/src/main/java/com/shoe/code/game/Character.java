@@ -1,7 +1,7 @@
-package com.shoe.code.game;
+package com.show.code.game;
 
 
-import com.shoe.code.game.weapon.Weapon;
+import com.show.code.game.weapon.Weapon;
 
 /**
  * created by: Omar

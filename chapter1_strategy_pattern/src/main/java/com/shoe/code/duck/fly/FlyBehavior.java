@@ -1,4 +1,4 @@
-package com.shoe.code.duck.fly;
+package com.show.code.duck.fly;
 
 /**
  * created by: Omar

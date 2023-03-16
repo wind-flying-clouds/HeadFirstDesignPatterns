@@ -1,4 +1,4 @@
-package com.shoe.code;
+package com.show.code;
 
 public class Main {
 	public static void main(String[] args) {
